@@ -34,7 +34,8 @@ Java es fa servir en alguns dels següents entorns:
 - Xcode.
 - jGRASP.
 
-![image](https://user-images.githubusercontent.com/113586103/192711019-8096d8d5-1cdc-423c-a636-42a86c45ebc6.png)
+/home/alumne/.jdks/openjdk-18.0.2.1/bin/java -javaagent:/home/alumne/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/222.3739.54/lib/idea_rt.jar=43099:/home/alumne/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/222.3739.54/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /home/alumne/IdeaProjects/projectesmeus/target/test-classes HolaMonMP05
+
 
 En infojobs trobem una gran demanda de programadors Senior Java, inclós hi ha molta demanda de programadors Junior Java per a persones sense experiència.
 ## Phyton
