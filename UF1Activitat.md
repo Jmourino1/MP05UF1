@@ -1,10 +1,14 @@
-Java:
+## Java:
 
 Java va neixer l'any 1990 sent creat per James Gosling i Sun Microsystems. Java ha experimentat un gran creixement després de la seva creació i al 2001
 va ser per primera vegada el llenguatge més utilitzat. Actualment segeuix sent de les més utilitzades, només sent superada per C i Phyton.
 
 Java es un llenguatge senzill (només té tres tipus de dades primàries), orientat a objectes (se centra en la manipulació, creació i construcció
-d'objectes), distribuït (té moltes classes disponibles)
+d'objectes), distribuït (té moltes classes disponibles), interpretat (requereix d'un interpret), robust (verifica errors i està molt tipificat), segur,
+independent de qualsevol plataforma, portable (relacionat amb la seva independència) i d'alt rendiment.
+
+![image](https://user-images.githubusercontent.com/113586103/192711019-8096d8d5-1cdc-423c-a636-42a86c45ebc6.png)
+
 Phyton
 C
 Fortran
