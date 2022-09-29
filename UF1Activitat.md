@@ -79,6 +79,7 @@ Algúns entorns per a Python són els següents:
 Aquí tenim un exemple de "HolaMon" amb Python:
 
 print "(HolaMon);"
+
 C
 Fortran
 
