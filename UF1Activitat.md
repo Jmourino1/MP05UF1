@@ -80,8 +80,66 @@ Aquí tenim un exemple de "HolaMon" amb Python:
 
 '''print ("HolaMon");'''
 
-C
-Fortran
+Phyton també té bastant demanda en infojobs tan de persones amb experiència com sense, no obstant, moltes de les ofertes accepten coneixements de Java si no es tenen de Python, la qual cosa me fa entendre que no hi ha molta demanda d'aquest tipus de programadors
+
+## C
+
+C és un llenguatge de baix nivel (diferent a Java i Python, que són d'alt nivell) desenvolupat entre els anys 1969 i 1972 per Dennis Ritchie als Laboratoris Bell. Tal i com indica l'ordre alfabètic, es una evolució del llenguatge B. C es l'aspirant a la llengua més utilitzada que faltava per mencionar, disputant-se la corona amb Phyton i Java.
+
+C es una llengua de dades estàtiques, amb una tipació feble i que té una característica interessant; té una estructura típica dels llenguatges d'alt nivell però, les construccions de les quals disposa permeten una construcció a baix nivell (curiós com a poc). Existeixen extensions al llenguatge que permeten mesclar codí en ensamblor amb codí C o accedir directament a memòria o dispositius perifèrics.
+
+Com passa amb Java i Phyton (i quasi tots els llenguatges no obsolets), C té una sèrie d'avantatges i desavantatges. Aquí alguns dels avantatges:
+
+- Ús eficient de la memòria (gran punt per a C respecte Java i Python).
+- Bon aprofitament de la CPU de la màquina.
+- Funciona en totes les plataformes.
+- Bona gestió de la base de dades.
+- Ràpid, elegant i senzill.
+- És robust (te tot tipus de dades i operadors).
+
+I ara alguns inconvenients:
+
+- Difícil d'apendre (punt per a Java i Python).
+- Trobar un error por ser més dificil que menjar sopa amb forquilla i ganivet.
+- Poca abstracció (falta llenguatge visual, lo que complica la deducció intuitiva).
+- Estructura molt tancada (quasi sempre cal extensions).
+- Ineficient per a llocs web.
+- No permet revisar al moment d'executar el que escrivim (altre punt per a Java i Python).
+
+C com a tal no s'utilitza en entorns (tot i que es el precursor de llenguatges com Perl, PHP, Phyton i Ruby)però si que s'utilitza molt en sistemes operatius. De fet, Linux, sistema amb el qual s'ha fet aquest treball, està escrit en C.
+
+Aquí un exemple de "HolaMon" en C:
+
+'''#include <stdio.h>
+
+main()
+{
+ printf("Hola món!\n");
+}'''
+
+En infojobs (almenys per lo que he vist) no hi ha demanda de programadors en llenguatge C tot i que si hi ha (encara que poca) de C#. també m'han sortit de Java, Phyton, Delphi e inclós COBOL (aquest últim m'ha sorprès que tingui algo de demanda).
+
+## Fortran
+
+Fortran en un llenguatge de programació d'alt nivell de propòsit general, procedural (es fa seguint procediments) e imperatiu. Va ser desenvolupada per IMB l'any 1957 (casi 66 anys, tot un veterà) per al IBM 704 i s'utilitzava per a aplicacions científiques i d'enginyeria. Al seu moment va ser una de les llengües més utilitzades i puntera en el seu sector. A dia d'avui, malauradament, tot i ser ocupar la posició 15 de llengües més utilitzades, apenes té un 1,03% d'ús al fer aquest treball, molt lluny de Python, C i Java amb un 15,74%, un 13,96% i un 11,72% respectivament. Tot i això, encara té un important ús en la predicció numèrica del temps, anàlisi d'elements finits, dinàmica de fluids computacional, física computacional i química computacional.
+
+Que a dia d'avui no sigui tant ulilitzada, no vol dir que no tingui avantatges o inconvenients si s'utilitza. Aquí algunes ventatges:
+
+- Més sencill d'apendre que els seus successors.
+- ...
+- Sí, no hi ha més
+
+Inconvenients és, basicament, que està obsolet (no té classes ni estructures, no fa reserva de memòria i el llenguatge es primitiu.
+
+Aquí un exemple (que no falti) del codi "HolaMon" en Fortran:
+
+ '''PROGRAM HOLA
+ WRITE (*,100)
+ STOP
+ 100 FORMAT (' Hola món! ' /)
+ END'''
+ 
+ En infojobs hi ha demanda però especialitzada majoritariament en enginyeries.
 
 ## Webgrafia
 https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-java/
@@ -91,3 +149,10 @@ https://es.wikipedia.org/wiki/Python#Caracter%C3%ADsticas_y_paradigmas
 https://keepcoding.io/blog/ventajas-y-desventajas-de-python/
 https://www.programaenpython.com/miscelanea/entornos-de-desarrollo-para-python/
 https://www.wikiwand.com/ca/Hola_m%C3%B3n
+https://www.infojobs.net/ofertas-trabajo/programador-python
+https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)
+https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-lenguaje/
+https://www.universidadviu.com/es/actualidad/nuestros-expertos/por-que-deberias-aprender-programacion-en-c
+https://www.infojobs.net/ofertas-trabajo/programador-c
+https://es.wikipedia.org/wiki/Fortran#Ventajas_e_inconvenientes_de_su_sintaxis
+https://www.infojobs.net/ofertas-trabajo/fortran
