@@ -7,7 +7,7 @@ Java es un llenguatge senzill (només té tres tipus de dades primàries), orien
 d'objectes), distribuït (té moltes classes disponibles), interpretat (requereix d'un interpret), robust (verifica errors i està molt tipificat), segur,
 independent de qualsevol plataforma, portable (relacionat amb la seva independència) i d'alt rendiment.
 
-Java es un llenguatge interpretat i té una sèrie de ventatges respecte a la majoria de llengües. Aquestes són algunes:
+Java es un llenguatge **ORIENTAT A OBJECTES QUE ES COMPILA PER LA SEVA MÀQUINA VIRTUAL** i té una sèrie de ventatges respecte a la majoria de llengües. Aquestes són algunes:
 
 - Ofereix un index de reutilització de codi (utilitzar el mateix codi en altre programa) molt elevat.
 - Es un llenguatge flexible i potent.
@@ -36,14 +36,15 @@ Java es fa servir en alguns dels següents entorns:
 
 Aquí tenim un exemple de Java amb "HolaMon":
 
-'''public class HolaMonMP05 {
+```
+public class HolaMonMP05 {
 
         public static void main(String args[])
         {
             System.out.println("Hola Mundo");
         }
 }
-'''
+```
 
 En infojobs trobem una gran demanda de programadors Senior Java, inclós hi ha molta demanda de programadors Junior Java per a persones sense experiència.
 ## Python
@@ -84,11 +85,13 @@ Phyton també té bastant demanda en infojobs tan de persones amb experiència c
 
 ## C
 
-C és un llenguatge de baix nivel (diferent a Java i Python, que són d'alt nivell) desenvolupat entre els anys 1969 i 1972 per Dennis Ritchie als Laboratoris Bell. Tal i com indica l'ordre alfabètic, es una evolució del llenguatge B. C es l'aspirant a la llengua més utilitzada que faltava per mencionar, disputant-se la corona amb Phyton i Java.
+C és un llenguatge de **ALT** nivel (diferent a Java i Python, que són d'alt nivell) desenvolupat entre els anys 1969 i 1972 per Dennis Ritchie als Laboratoris Bell. Tal i com indica l'ordre alfabètic, es una evolució del llenguatge B. C es l'aspirant a la llengua més utilitzada que faltava per mencionar, disputant-se la corona amb Phyton i Java.
 
 C es una llengua de dades estàtiques, amb una tipació feble i que té una característica interessant; té una estructura típica dels llenguatges d'alt nivell però, les construccions de les quals disposa permeten una construcció a baix nivell (curiós com a poc). Existeixen extensions al llenguatge que permeten mesclar codí en ensamblor amb codí C o accedir directament a memòria o dispositius perifèrics.
 
 Com passa amb Java i Phyton (i quasi tots els llenguatges no obsolets), C té una sèrie d'avantatges i desavantatges. Aquí alguns dels avantatges:
+
+**ES UN LLENGUATGE IMPERATIU I COMPILAT**
 
 - Ús eficient de la memòria (gran punt per a C respecte Java i Python).
 - Bon aprofitament de la CPU de la màquina.
@@ -121,7 +124,7 @@ En infojobs (almenys per lo que he vist) no hi ha demanda de programadors en lle
 
 ## Fortran
 
-Fortran en un llenguatge de programació d'alt nivell de propòsit general, procedural (es fa seguint procediments) e imperatiu. Va ser desenvolupada per IMB l'any 1957 (casi 66 anys, tot un veterà) per al IBM 704 i s'utilitzava per a aplicacions científiques i d'enginyeria. Al seu moment va ser una de les llengües més utilitzades i puntera en el seu sector. A dia d'avui, malauradament, tot i ser ocupar la posició 15 de llengües més utilitzades, apenes té un 1,03% d'ús al fer aquest treball, molt lluny de Python, C i Java amb un 15,74%, un 13,96% i un 11,72% respectivament. Tot i això, encara té un important ús en la predicció numèrica del temps, anàlisi d'elements finits, dinàmica de fluids computacional, física computacional i química computacional.
+Fortran en un llenguatge de programació d'alt nivell de propòsit general, procedural (es fa seguint procediments) e imperatiu **I COMPILAT**. Va ser desenvolupada per IMB l'any 1957 (casi 66 anys, tot un veterà) per al IBM 704 i s'utilitzava per a aplicacions científiques i d'enginyeria. Al seu moment va ser una de les llengües més utilitzades i puntera en el seu sector. A dia d'avui, malauradament, tot i ser ocupar la posició 15 de llengües més utilitzades, apenes té un 1,03% d'ús al fer aquest treball, molt lluny de Python, C i Java amb un 15,74%, un 13,96% i un 11,72% respectivament. Tot i això, encara té un important ús en la predicció numèrica del temps, anàlisi d'elements finits, dinàmica de fluids computacional, física computacional i química computacional.
 
 Que a dia d'avui no sigui tant ulilitzada, no vol dir que no tingui avantatges o inconvenients si s'utilitza. Aquí algunes ventatges:
 
