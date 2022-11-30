@@ -18,7 +18,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - **Diagrama:** 
   - ![Captura de pantalla de 2022-11-30 08-53-07](https://user-images.githubusercontent.com/113586103/204738598-a5b4ede3-f393-4b76-973d-498c00e9331e.png)
 
-  - **Resultat CC:**
+  - **Resultat CC:** 8 - 7 + 1 = 3
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
@@ -46,7 +46,7 @@ public class proves {
   - **Diagrama:**
   - ![image](https://user-images.githubusercontent.com/113586103/204752055-2f4dd13b-760a-4326-9832-ce460e43736f.png)
 
-  - **Resultat CC:**
+  - **Resultat CC:** 14 - 12 + 2 = 4
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
