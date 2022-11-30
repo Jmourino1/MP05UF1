@@ -44,6 +44,8 @@ public class proves {
 ```
 
   - **Diagrama:**
+  - ![image](https://user-images.githubusercontent.com/113586103/204752055-2f4dd13b-760a-4326-9832-ce460e43736f.png)
+
   - **Resultat CC:**
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
